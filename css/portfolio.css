@@ -214,7 +214,7 @@ figure {
 }
 
 .main__photo {
-    border-radius: o o o 50px;
+    border-radius: 0 0 0 50px;
     position: absolute;
     bottom: 0;
     left: 0;
