@@ -214,6 +214,7 @@ figure {
 }
 
 .main__photo {
+    border: o o o 50px;
     position: absolute;
     bottom: 0;
     left: 0;
